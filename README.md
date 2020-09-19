@@ -1,10 +1,6 @@
 # RUBIK's MINI CUBE with PIC18F4520
 
-* LCD接線圖待上傳
-
-* CUBE接線圖待上傳
-
-* 使用影片待上傳
+* https://www.youtube.com/watch?v=kPHCREx986o
 
 ## Requirements
 
